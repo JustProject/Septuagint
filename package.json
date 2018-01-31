@@ -1,0 +1,7 @@
+{
+  "name": "Septuagint",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:JustProject/Septuagint.git",
+  "license": "MIT"
+}
